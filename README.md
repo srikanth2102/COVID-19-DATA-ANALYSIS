@@ -34,9 +34,12 @@ The data used in this covid-19 data analysis is taken from [kaggle covid-19 in I
 * To learn more about Tableau click [here](https://www.tableau.com/). 
 
 ## SAMPLE VISUALIZATION
-![VACCINATION CURVE](https://user-images.githubusercontent.com/66214509/129058636-8dd3aad6-d8d6-4521-9bd8-56a0e214c034.png)
-![COVISHIELD Vs COVAXIN](https://user-images.githubusercontent.com/66214509/129058667-1ab687f4-7b29-4289-acdd-6ee5fff6ab9a.png)
 
+* ![VACCINATION CURVE](https://user-images.githubusercontent.com/66214509/129058636-8dd3aad6-d8d6-4521-9bd8-56a0e214c034.png)
+* From the above plot we can see an exponential rise in vaccination count over time. Lets hope this trend continues. 
+* ![COVISHIELD Vs COVAXIN](https://user-images.githubusercontent.com/66214509/129058667-1ab687f4-7b29-4289-acdd-6ee5fff6ab9a.png)
+* From the above plot we can infer that most of the people got vaccinated with Covishield rather than Covaxin
+* I have filtered to show the states with most vaccinated people (*Top 5 states*).
 
 ## OUTLINE
 
