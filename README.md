@@ -26,7 +26,7 @@ The data used in this covid-19 data analysis is taken from [kaggle covid-19 in I
 
 ## OUTLINE
 
-* Data used in this project can be found in the "data" directory.
+* Data used in this project can be found in the [data](https://github.com/srikanth2102/COVID-19-DATA-ANALYSIS/tree/main/data) directory.
 * Under [analysis_on_covid_vaccine_statewise](https://github.com/srikanth2102/COVID-19-DATA-ANALYSIS/tree/main/analysis_on_covid_vaccine_statewise) you can find the queries used and the result csv files for COVID-19 VACCINATION DATA.
 * Under [analysis_on_StatewiseTestingDetails](https://github.com/srikanth2102/COVID-19-DATA-ANALYSIS/tree/main/analysis_on_StatewiseTestingDetails) you can find the queries used and the result csv files for COVID-19 TESTING DATA.
 * Under [analysis_on_covid_19_india](https://github.com/srikanth2102/COVID-19-DATA-ANALYSIS/tree/main/analysis_on_covid_19_india) you can find the queries used and the result csv files for COVID-19 INDIA DATA.
