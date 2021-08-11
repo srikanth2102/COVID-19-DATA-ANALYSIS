@@ -24,9 +24,25 @@ The data used in this covid-19 data analysis is taken from [kaggle covid-19 in I
 * State-wise recovery percentage
 * State-wise deaths due to covid-19 
 
+## OVERVIEW
+* In this project we perform Data Analysis and Data Visualisation on COVID-19 dataset to get insights.
+* Data Analysis is done using SQL and the results are saved as csv files and shared here.
+* The queries written to perform Data Analysis is also shared under the directory Queries.
+* Data Visualisation is done using Tableau.
+* Tableau is an Data Visualization tool. Using Tableau is simple.
+* Using Tableau you can visualize your data in a structured way that is easier to get insights from.
+* To learn more about Tableau click [here](https://www.tableau.com/). 
+
+## SAMPLE VISUALIZATION
+![VACCINATION CURVE](https://user-images.githubusercontent.com/66214509/129058636-8dd3aad6-d8d6-4521-9bd8-56a0e214c034.png)
+![COVISHIELD Vs COVAXIN](https://user-images.githubusercontent.com/66214509/129058667-1ab687f4-7b29-4289-acdd-6ee5fff6ab9a.png)
+
+
 ## OUTLINE
 
 * Data used in this project can be found in the [data](https://github.com/srikanth2102/COVID-19-DATA-ANALYSIS/tree/main/data) directory.
 * Under [analysis_on_covid_vaccine_statewise](https://github.com/srikanth2102/COVID-19-DATA-ANALYSIS/tree/main/analysis_on_covid_vaccine_statewise) you can find the queries used and the result csv files for COVID-19 VACCINATION DATA.
 * Under [analysis_on_StatewiseTestingDetails](https://github.com/srikanth2102/COVID-19-DATA-ANALYSIS/tree/main/analysis_on_StatewiseTestingDetails) you can find the queries used and the result csv files for COVID-19 TESTING DATA.
 * Under [analysis_on_covid_19_india](https://github.com/srikanth2102/COVID-19-DATA-ANALYSIS/tree/main/analysis_on_covid_19_india) you can find the queries used and the result csv files for COVID-19 INDIA DATA.
+* Under [data visualisation](https://github.com/srikanth2102/COVID-19-DATA-ANALYSIS/tree/main/data%20visualization) you will find both PDF and PPT versions of the Visualizations.
+
