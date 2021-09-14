@@ -34,12 +34,12 @@ The data used in this covid-19 data analysis is taken from [kaggle covid-19 in I
 * To learn more about Tableau click [here](https://www.tableau.com/). 
 
 ## SAMPLE VISUALIZATION
-
+* ![Dashboard](https://user-images.githubusercontent.com/66214509/133301386-caf0b92f-7c78-4ea7-9ea4-15be8dd38bfa.png)
+* The map shows the vaccination and covid-19 cases state-wise in India.
 * ![VACCINATION CURVE](https://user-images.githubusercontent.com/66214509/129058636-8dd3aad6-d8d6-4521-9bd8-56a0e214c034.png)
 * From the above plot we can see an exponential rise in vaccination count over time. Lets hope this trend continues. 
-* ![COVISHIELD Vs COVAXIN](https://user-images.githubusercontent.com/66214509/129058667-1ab687f4-7b29-4289-acdd-6ee5fff6ab9a.png)
+* ![Covishield or Covaxin](https://user-images.githubusercontent.com/66214509/133301326-d28f9b54-5f4e-40ab-b705-f763d0e72665.png)
 * From the above plot we can infer that most of the people got vaccinated with Covishield rather than Covaxin
-* I have filtered to show the states with most vaccinated people (*Top 5 states*).
 
 ## OUTLINE
 
